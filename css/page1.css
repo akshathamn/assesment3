@@ -1,0 +1,79 @@
+.top
+{
+	top: 130px;
+}
+.font
+{
+	font-size: 60px;
+	margin-left: 56px;
+}
+.size
+{
+	font-size:46px;
+	color: gray;
+	margin-left: 53px;
+}
+button
+{
+	border-radius: 11px 11px;
+	width:  133px;
+	height: 30px;
+	margin-left: 72px;
+	color: white;
+}
+.open-button
+{
+	background-color:#79c3f2;
+	 color: white; 
+}
+
+.b2
+{
+	background-color: #404344;
+}
+body
+{
+	background-color: lavender;
+}
+
+.form-popup 
+{
+  display: none;
+}
+.form-container 
+{
+  max-width: 500px;
+  padding: 10px;
+  background-color: #9599a0;
+}
+.form-container .btn 
+{
+  background-color: #79c3f2;
+  color: white;
+  border: none;
+  border-radius: 26px 26px;
+  width: 165px;
+  height: 50px;
+  margin-left: 134px;
+  font-weight: bold;
+}
+.form-container input[type=text], .form-container input[type=password] {
+  width: 100%;
+  padding: 15px;
+  border: none;
+  background: #f1f1f1;
+}
+.question
+{
+	color: white;
+	margin-left: 139px;
+	font-weight: bold;
+}
+.signin
+{
+	background-color:black;
+	color:#79c3f2;
+	font-weight: bold;
+	width: 86px; 
+	margin-left: 11px;
+}
