@@ -21,11 +21,11 @@ button
 	margin-left: 72px;
 	color: white;
 }
-.open-button
+/*.open-button
 {
 	background-color:#79c3f2;
 	 color: white; 
-}
+}*/
 
 .b2
 {
@@ -36,17 +36,18 @@ body
 	background-color: lavender;
 }
 
-.form-popup 
+
+.modal-content
 {
-  display: none;
+	background-color: lavender;
 }
-.form-container 
-{
-  max-width: 500px;
-  padding: 10px;
-  background-color: #9599a0;
-}
-.form-container .btn 
+.modal-header, h4, .close {
+   
+    text-align: center;
+    font-size: 30px;
+  }
+  
+ .btn 
 {
   background-color: #79c3f2;
   color: white;
@@ -54,15 +55,10 @@ body
   border-radius: 26px 26px;
   width: 165px;
   height: 50px;
-  margin-left: 134px;
+  margin-left: 50px;
   font-weight: bold;
 }
-.form-container input[type=text], .form-container input[type=password] {
-  width: 100%;
-  padding: 15px;
-  border: none;
-  background: #f1f1f1;
-}
+
 .question
 {
 	color: white;
@@ -76,4 +72,18 @@ body
 	font-weight: bold;
 	width: 86px; 
 	margin-left: 11px;
+
 }
+.font1
+{
+	margin-left: 578px;
+	margin-top: 3px;
+}
+.left
+{
+	margin-right: 200px;
+	font-size: 30px;
+	color: #0587b1;
+	margin-left: 10px;
+}
+
