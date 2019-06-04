@@ -54,21 +54,90 @@ a:hover
 {
 	width: 100px;
 	height: 100px;
-	 margin-left: 144px;
-	    /* margin-top: -4%;*/
+	margin-left: 144px;
 }
+	    
 .left
 {
-	 margin-left: 255px;   
-    margin-top: -11%;
+	margin-left: 255px;   
+    margin-top: -15%;
     font-weight: bold;
-  
 }
 .pleft
 {
 	margin-left: 255px;
 }
-#correct
+.correct
 {
-	margin-top: 10%;
+	margin-left: 53px;
+    margin-bottom: -16px;
+}
+.right
+{
+	margin-left: 100px;
+}
+.class
+{
+	margin-left: 100px;
+}
+.home
+{
+	position: relative;
+}
+.card
+{
+	position: absolute;
+	top: -414px;
+    left: 335%;
+}
+.row
+{
+	background-color:#c1c1c5;
+}
+#time
+{
+	background-color: gray;
+}
+.temp
+{
+	background-color: gray;
+}
+.sig
+{
+	background-color: gray;
+	margin-left: 15px;
+}
+.down
+{
+	top: 10px;
+	background-color: white;
+	height:  137px;
+	right: 15px;
+}
+.down2
+{
+	top: 30px;
+	right: 14px;
+	background-color: white;
+	height: 137px;
+}
+.down3
+{
+	top: 50px;
+	right: 14px;
+	background-color: white;
+	height:  137px;
+}
+.table td, .table th 
+{
+    padding: 2px !important;
+}
+.pic
+{
+    width: 40px;
+    height: 23px;
+}
+#lblGreetings
+{
+padding-right: 100px;
 }
